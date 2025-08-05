@@ -1,2 +1,2 @@
 # Lakehouse
-Repor for databricks
+Repo for databricks
